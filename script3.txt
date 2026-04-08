@@ -1,0 +1,19 @@
+info
+add
+Gadget
+1.0
+2.0
+100
+GAD-0015167
+50
+METERS
+Maker
+1000
+COMMERCIAL
+Addr
+123456
+0.1
+0.2
+0.3
+Place
+execute_script script4.txt
